@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Streamlined Freelancer & Small Business Financial Management
+slug: streamlined-freelancer-small-b
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: streamlined-freelancer-small-b.msx.dev
