@@ -1,0 +1,34 @@
+{
+  "id": "58f1cf00-743d-4695-a460-3ae796ca4fb4",
+  "name": "Streamlined Freelancer & Small Business Financial Management",
+  "slug": "streamlined-freelancer-small-b",
+  "category": "saas",
+  "score": 88,
+  "description": "Freelancers and small businesses struggle to find easy-to-use, affordable, and scalable accounting and invoicing software that can automate financial operations without introducing unnecessary complexity, especially as their business grows.",
+  "pain_points": [
+    "Struggling to find easy-to-use, affordable accounting software.",
+    "Existing financial tools become complex and costly with growth.",
+    "Time-consuming manual financial operations and reconciliations.",
+    "Lack of integrated smart suggestions for tax or cash flow optimization.",
+    "Difficulty in properly setting up accounting systems without expert help."
+  ],
+  "market_size": "$50B+",
+  "tech_stack": [
+    "node",
+    "express",
+    "react"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "1044 upvotes",
+      "source": "reddit",
+      "mentions": 0
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-streamlined-freelancer-small-b/",
+  "repo_url": "https://github.com/mothershipx/msx-streamlined-freelancer-small-b",
+  "created_at": "2026-04-03T07:05:23.470Z",
+  "pipeline_version": "1.0.0"
+}
